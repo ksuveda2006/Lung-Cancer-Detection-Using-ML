@@ -38,9 +38,13 @@ Then we build the model for each of the above mentioned algorithms. Using the fo
 
 
 1.Accuracy
+
 2.Precision
+
 3.F1 Score
+
 4.Recall Score
+
 5.Confusion Matrix
 
 
