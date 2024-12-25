@@ -48,7 +48,7 @@ Then we build the model for each of the above mentioned algorithms. Using the fo
 5.Confusion Matrix
 
 
-These are the accuracies of the algorithms:
+**These are the accuracies of the algorithms:**
 
 
 1.Logistic Regression: 90.29%
