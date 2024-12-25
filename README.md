@@ -13,15 +13,25 @@ We have selected 10 of the following classification algorithms that have been us
 
 
 1.Logistic Regression
+
 2.K-Nearest Neighbors (KNN)
+
 3.Decision Tree
+
 4.Support Vector Machines (SVM)
+
 5.Naive Bayes
+
 6.Random Forest
+
 7.Gradient Boosting
+
 8.Neural Networks
+
 9.AdaBoost
+
 10.XGBoost
+
 
 
 Then we build the model for each of the above mentioned algorithms. Using the following Evaluation Metrics we have compared the algorithms:
